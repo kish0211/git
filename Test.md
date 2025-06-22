@@ -1,4 +1,2 @@
 This is first commit
-<<<<<<< HEAD
-<<<<<<< HEAD
-this is 2nd commit
+This is second commit in dev1 branch
